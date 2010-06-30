@@ -1,0 +1,7 @@
+Play bingo on your server.
+Make sure to edit the dbconfig.php suiting your need.Find the sql table structre along with.
+The rest is expected to work.
+Jquery PHP and Mysql is being used.
+Thanks to soorajb !
+
+Srihari <srih4ri@gmail.com> 
