@@ -1,0 +1,103 @@
+.square {
+   padding: 10px;
+   margin: 0;
+   width: 26px;
+   height: 26px;
+   background-color: #CCC;
+   border: 2px solid #666;
+   float: left;
+   position: relative;
+}
+.player0{
+text-decoration:strike-through;
+background-color: #E7ACAC;
+}
+.player1{
+text-decoration:strike-through;
+background-color: #A1F5A1;
+}
+.clik{
+background-color: #FFFFFF;
+}
+.clik:hover{
+background-color: #5147B8;
+}
+#bingo_box{
+  width:250px;
+   height: 250px;
+   background-color: #FF0;
+   float:none;
+}
+.invgame{
+	top:95px;
+   width: 245px;
+   background-color: #CCE;
+   border: 3px solid #667;
+   position: relative;
+}
+#mainbox{
+text-align:center;
+
+}
+.err{
+position:relative;
+border:4px solid #A00A63;
+background-color:#B06C6C;
+color:aqua;
+font-size:30px;
+width:260px;
+height: 260px;
+}
+.vict{
+position:absolute;
+border:4px solid #BFFF00;
+background-color:#FFFFFF;
+color:#001;
+font-size:30px;
+width:260px;
+height: 260px;
+top:0px;
+}
+#bingo_stat{
+position:relative;
+border:3px solid #494949;
+background-color:#FFFFFF;
+color:#7A5C6D;
+font-size:20px;
+text-align:center;
+width:244px;
+height: 25px;
+
+}
+#playerstat{
+height: 25px;
+   float: none;
+}
+#pname{
+background-color:#FFF;
+color:#390020;
+font-size:15px;
+height: 25px;
+width:125px;
+float: none;
+position: relative;
+}
+#gameid{
+background-color:#FFFFFF;
+color:#390020;
+font-size:15px;
+height: 25px;
+width:125px;
+position: relative; 
+float: none;
+   
+}
+#message_box{
+position:fixed;
+top:0px;
+left:0px;
+background-color:#E9E4DE;
+font-size:10px;
+height: 18px;
+border:1px solid black;
+}
